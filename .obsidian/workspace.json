@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#数学/高数/极限",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c8744e48406bcace",
@@ -201,7 +200,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a873e98657dc2bb5",
+  "active": "c5d2acc817ab1862",
   "lastOpenFiles": [
     "MyLife/Daily/2026-07-07.md",
     "MyLife/Daily/2026-07-06.md",
