@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "f0881834a3af5c7d",
+    "id": "6f0cbeed94eae3f9",
     "type": "split",
     "children": [
       {
-        "id": "34803f9c8d4ae96e",
+        "id": "174f468a217dea7b",
         "type": "tabs",
         "children": [
           {
-            "id": "8b8e8be3cc61ca9d",
+            "id": "49e20f7a7cd495f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +19,52 @@
               },
               "icon": "lucide-file",
               "title": "2026-07-05"
-            }
+            },
+            "group": "f53768d391e9b218"
+          }
+        ]
+      },
+      {
+        "id": "9a27b29171a41cd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9beb2491cd07b671",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "MyLife/Daily/2026-06-22.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            },
+            "group": "f53768d391e9b218"
           }
         ]
       }
@@ -27,29 +72,29 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "425d810e257d27a2",
+    "id": "87550c16702ba70f",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "4b7a2d0f3a1862bc",
+        "id": "75737a8a31c8245d",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": true
           },
           "icon": "lucide-folder-closed",
           "title": "文件列表"
         }
       },
       {
-        "id": "9ab205a368967b71",
+        "id": "337f84cd95784824",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#数学/高数/待归档",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -61,7 +106,7 @@
         }
       },
       {
-        "id": "ee6c75c8c3c00dd8",
+        "id": "c1998be8ae739031",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -76,7 +121,7 @@
         }
       },
       {
-        "id": "65a4d2d5a7866b9e",
+        "id": "196231b56d34ca07",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -90,7 +135,7 @@
         }
       },
       {
-        "id": "329da85368135d2f",
+        "id": "fcdca1a8bd74b542",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -103,11 +148,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "e7de71fda91585fa",
+    "id": "5060b727e334c5ed",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "c4b5cf7df79995f6",
+        "id": "af98059868b0afe0",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -126,12 +171,11 @@
         }
       },
       {
-        "id": "898ca0d23a2a02dd",
+        "id": "0946f0c6ff9ebc2a",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "MyLife/Daily/2026-07-05.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -140,12 +184,11 @@
         }
       },
       {
-        "id": "c02eeb4b71cdac62",
+        "id": "30a2ccdb12f32bc6",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "MyLife/Daily/2026-07-05.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -153,56 +196,66 @@
           "icon": "lucide-list",
           "title": "大纲"
         }
+      },
+      {
+        "id": "768c3eea4605fa6d",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      },
+      {
+        "id": "13b3554776561659",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "templater-obsidian:Templater": false,
+      "cmdr:Periodic Notes: Open monthly note": false,
+      "cmdr:Periodic Notes: Open yearly note": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "8b8e8be3cc61ca9d",
+  "active": "49e20f7a7cd495f2",
   "lastOpenFiles": [
     "MyLife/Daily/2026-07-04.md",
-    "MyLife/ZZZKnowledge/总览知识.md",
     "MyLife/Daily/2026-07-05.md",
-    "MyLife/Monthly/2026-06.md",
-    "MyLife/Daily/2026-06-22.md",
-    "MyLife/Monthly/2026-07.md",
-    "README.md",
-    "Templates/Daily_Template.md",
-    "Templates/ZZZSays.md",
-    "Templates/ZZZCompare.md",
-    "Templates/Weekly_Template.md",
-    "Templates/Monthly_Template.md",
-    "Templates/Yearly_Template.md",
-    "Templates",
-    "MyLife/ZZZKnowledge/高数/格林公式.md",
-    "MyLife/ZZZKnowledge/Untitled.md",
-    "MyLife/ZZZKnowledge/高数",
-    "MyLife/Monthly/2026-01.md",
-    "MyLife/Yearly/2026.md",
-    "MyLife/Daily/2026-01-15.md",
-    "MyLife/Daily/2026-06-21.md",
-    "MyLife/Daily/2026-06-26.md",
-    "MyLife/Daily/2026-06-29.md",
-    "MyLife/Weekly/2026-W25.md",
-    "MyLife/Weekly/2026-W26.md",
-    "MyLife/Weekly/2026-W03.md",
     "MyLife/Weekly/2026-W27.md",
+    "MyLife/Daily/2026-07-06.md",
+    "MyLife/Monthly/2026-07.md",
+    "MyLife/Daily/2026-07-02.md",
+    "MyLife/Daily/2026-06-29.md",
+    "MyLife/Monthly/2026-06.md",
+    "MyLife/Yearly/2026.md",
     "MyLife/Weekly/2026-W28.md",
-    "MyLife/ZZZKnowledge",
-    "MyLife/Monthly",
-    "MyLife/Yearly",
-    "MyLife/Daily",
-    "MyLife/Weekly",
-    "MyLife"
+    "Templates/ZZZCompare.md",
+    "Templates/ZZZSays.md",
+    "MyLife/Daily/2026-07-31.md",
+    "MyLife/ZZZKnowledge/总览知识.md",
+    "MyLife/Monthly/2026-05.md",
+    "MyLife/Daily/2026-06-26.md",
+    "MyLife/Daily/2026-06-22.md",
+    "MyLife/Monthly/2026-08.md",
+    "MyLife/Weekly/2026-W26.md"
   ]
 }
