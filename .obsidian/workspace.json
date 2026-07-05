@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyLife/Weekly/2026-W27.md",
+                "file": "MyLife/Daily/2026-07-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-W27"
+              "title": "2026-07-04"
             }
           }
         ]
@@ -128,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MyLife/Daily/2026-07-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2026-07-04"
             }
           },
           {
@@ -170,16 +171,27 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "MyLife/Daily/2026-07-04.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2026-07-04"
+            }
+          },
+          {
+            "id": "ca8869ca2af7aeb2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -197,16 +209,20 @@
       "templater-obsidian:Templater": false,
       "cmdr:Periodic Notes: Open monthly note": false,
       "cmdr:Periodic Notes: Open yearly note": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5d2acc817ab1862",
+  "active": "a873e98657dc2bb5",
   "lastOpenFiles": [
+    "MyLife/Monthly/2026-05.md",
+    "MyLife/Daily/2026-07-04.md",
+    "MyLife/Daily/2026-06-26.md",
+    "MyLife/Weekly/2026-W27.md",
     "MyLife/Daily/2026-07-07.md",
     "MyLife/Daily/2026-07-06.md",
     "MyLife/Daily/2026-07-05.md",
     "MyLife/ZZZKnowledge/总览知识.md",
-    "MyLife/Weekly/2026-W27.md",
     "MyLife/Weekly/2026-W28.md",
     "MyLife/Monthly/2026-07.md",
     "MyLife/Weekly/2026-W26.md",
@@ -216,7 +232,6 @@
     "MyLife/Monthly/2026-06.md",
     "MyLife/Daily/2026-06-29.md",
     "MyLife/Yearly/2026.md",
-    "MyLife/Daily/2026-07-04.md",
     "MyLife/Daily/0001-01-16.md",
     "MyLife/Monthly/2026-08.md",
     "MyLife/Weekly/2026-W32.md",
@@ -226,8 +241,6 @@
     "<% tp.date.now(\"YYYY-MM\") %>.md",
     "MyLife/Daily/2026-06-21.md",
     "MyLife/Weekly/2026-W25.md",
-    "MyLife/Daily/2026-07-03.md",
-    "Templates/Daily_Template.md",
     "Untitled.base",
     "MyLife/ZZZKnowledge/高数",
     "MyLife/ZZZKnowledge/Untitled.base",
