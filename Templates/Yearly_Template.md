@@ -55,10 +55,10 @@ const currentYear = parseInt(dv.current().file.name);
 // 2. 表情定义
 function getMoodEmoji(score) {
     if (!score && score !== 0) return "⚪"; 
-    if (score >= 9) return "🤩";
-    if (score >= 7) return "😊";
-    if (score >= 5) return "😐";
-    if (score >= 3) return "😞";
+    if (score >= 90) return "🤩";
+    if (score >= 70) return "😊";
+    if (score >= 50) return "😐";
+    if (score >= 30) return "😞";
     return "😭";
 }
 
