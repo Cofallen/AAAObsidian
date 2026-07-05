@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "MyLife/Daily/2026-07-05.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -157,7 +157,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MyLife/Daily/2026-07-04.md",
+            "file": "MyLife/Daily/2026-07-05.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -228,15 +228,15 @@
   },
   "active": "49e20f7a7cd495f2",
   "lastOpenFiles": [
-    "MyLife/Daily/2026-07-04.md",
+    "MyLife/Weekly/2026-W27.md",
     "MyLife/Daily/2026-07-05.md",
+    "MyLife/Daily/2026-07-04.md",
     "MyLife/Daily/2026-07-06.md",
     "MyLife/Monthly/2026-07.md",
     "MyLife/Daily/2026-07-02.md",
     "MyLife/Daily/2026-06-29.md",
     "MyLife/Monthly/2026-06.md",
     "MyLife/Yearly/2026.md",
-    "MyLife/Weekly/2026-W27.md",
     "MyLife/Weekly/2026-W28.md",
     "Templates/ZZZCompare.md",
     "Templates/ZZZSays.md",
