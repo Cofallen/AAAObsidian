@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyLife/Daily/2026-07-04.md",
-                "mode": "preview",
+                "file": "MyLife/Weekly/2026-W27.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-04"
+              "title": "2026-W27"
             },
             "group": "f53768d391e9b218"
           }
@@ -158,7 +158,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MyLife/Daily/2026-07-04.md",
+            "file": "MyLife/Weekly/2026-W27.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -228,17 +228,17 @@
   },
   "active": "49e20f7a7cd495f2",
   "lastOpenFiles": [
+    "MyLife/Daily/2026-07-05.md",
     "MyLife/Monthly/2026-07.md",
+    "MyLife/Daily/2026-07-04.md",
     "MyLife/Yearly/2026.md",
     "MyLife/Monthly/2026-06.md",
     "MyLife/Daily/2026-06-29.md",
     "MyLife/ZZZKnowledge/总览知识.md",
-    "MyLife/Daily/2026-07-04.md",
     "MyLife/Daily/2026-06-26.md",
     "MyLife/Daily/2026-06-22.md",
     "MyLife/Weekly/2026-W27.md",
     "MyLife/Weekly/2026-W28.md",
-    "MyLife/Daily/2026-07-05.md",
     "MyLife/Monthly/2026-08.md",
     "MyLife/Monthly/2026-05.md",
     "MyLife/Weekly/2026-W26.md"
