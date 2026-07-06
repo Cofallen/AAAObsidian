@@ -94,7 +94,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#数学/高数/待归档",
+            "query": "tag:#数学/高数/扩展",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -145,7 +145,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "5060b727e334c5ed",
@@ -238,16 +238,16 @@
   },
   "active": "49e20f7a7cd495f2",
   "lastOpenFiles": [
-    "MyLife/Weekly/2026-W28.md",
-    "MyLife/ZZZKnowledge/Untitled.md",
-    "MyLife/ZZZKnowledge/高数/格林公式.md",
     "MyLife/ZZZKnowledge/总览知识.md",
     "MyLife/Daily/2026-07-06.md",
+    "MyLife/Monthly/2026-07.md",
+    "MyLife/Weekly/2026-W28.md",
     "MyLife/Weekly/2026-W27.md",
+    "MyLife/Daily/2026-07-05.md",
+    "MyLife/ZZZKnowledge/Untitled.md",
+    "MyLife/ZZZKnowledge/高数/格林公式.md",
     "Templates/Weekly_Template.md",
     "MyLife/ZZZKnowledge/高数/达布定理.md",
-    "MyLife/Monthly/2026-07.md",
-    "MyLife/Daily/2026-07-05.md",
     "MyLife/Daily/2026-07-04.md",
     "MyLife/Daily/2026-07-02.md",
     "MyLife/Daily/2026-06-29.md",
