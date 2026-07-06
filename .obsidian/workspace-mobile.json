@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "MyLife/Daily/2026-07-06.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -94,7 +94,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#数学/高数/扩展",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -145,7 +145,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "5060b727e334c5ed",
@@ -238,10 +238,11 @@
   },
   "active": "49e20f7a7cd495f2",
   "lastOpenFiles": [
-    "MyLife/ZZZKnowledge/总览知识.md",
+    "MyLife/Weekly/2026-W28.md",
     "MyLife/Daily/2026-07-06.md",
     "MyLife/Monthly/2026-07.md",
-    "MyLife/Weekly/2026-W28.md",
+    "MyLife/Daily/2026-07-11.md",
+    "MyLife/ZZZKnowledge/总览知识.md",
     "MyLife/Weekly/2026-W27.md",
     "MyLife/Daily/2026-07-05.md",
     "MyLife/ZZZKnowledge/Untitled.md",
