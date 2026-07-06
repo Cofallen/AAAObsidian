@@ -3,7 +3,7 @@ score: 0
 tags: daily
 created: <% tp.date.now("YYYY-MM-DD HH:mm:ss") %>
 ---
-🔙 [[MyLife/Yearly/<% moment(tp.file.title, "YYYY-MM-DD").format("YYYY") %>|年度展望]] | 📂 [[MyLife/Monthly/<% moment(tp.file.title, "YYYY-MM-DD").format("YYYY-MM") %>|本月月记]] | 📅 [[MyLife/Weekly/<% moment(tp.file.title, "YYYY-MM-DD").format("gggg-[W]ww") %>|本周周记]] | 📝[[总览知识]]
+🔙 [[MyLife/Yearly/<% moment(tp.file.title, "YYYY-MM-DD").format("YYYY") %>|年度展望]] | 📂 [[MyLife/Monthly/<% moment(tp.file.title, "YYYY-MM-DD").format("YYYY-MM") %>|本月月记]] | 📅 [[MyLife/Weekly/<% moment(tp.file.title, "YYYY-MM-DD").format("gggg-[W]W") %>|本周周记]] | 📝[[总览知识]]
 ```dataviewjs
 // ===== 日期 =====
 const today = moment(dv.current().file.name, "YYYY-MM-DD");
