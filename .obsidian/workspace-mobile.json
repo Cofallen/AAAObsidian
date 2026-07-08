@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyLife/Daily/2026-07-07.md",
+                "file": "MyLife/Monthly/2026-07.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-07"
+              "title": "2026-07"
             },
             "group": "f53768d391e9b218"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MyLife/Daily/2026-07-07.md",
+                "file": "MyLife/Monthly/2026-07.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -238,14 +238,15 @@
   },
   "active": "49e20f7a7cd495f2",
   "lastOpenFiles": [
-    "MyLife/Monthly/2026-07.md",
+    "MyLife/Daily/2026-07-06.md",
+    "MyLife/Weekly/2026-W28.md",
     "MyLife/Daily/2026-07-07.md",
     "MyLife/ZZZKnowledge/总览知识.md",
+    "MyLife/Daily/2026-07-08.md",
+    "MyLife/Monthly/2026-07.md",
     "MyLife/ZZZKnowledge/高数/绝对值极限性质.md",
     "MyLife/ZZZKnowledge/高数/两个极限乘积关系.md",
-    "MyLife/Daily/2026-07-06.md",
     "MyLife/ZZZKnowledge/高数/欧拉常数.md",
-    "MyLife/Weekly/2026-W28.md",
     "MyLife/Daily/2026-07-05.md",
     "MyLife/Weekly/2026-W27.md",
     "MyLife/ZZZKnowledge/高数/格林公式.md",
@@ -262,7 +263,6 @@
     "Templates/ZZZCompare.md",
     "Templates/ZZZSays.md",
     "MyLife/Daily/2026-07-31.md",
-    "MyLife/Monthly/2026-05.md",
-    "MyLife/Daily/2026-06-26.md"
+    "MyLife/Monthly/2026-05.md"
   ]
 }
