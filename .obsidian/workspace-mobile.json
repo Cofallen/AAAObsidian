@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyLife/Daily/2026-07-11.md",
-                "mode": "source",
+                "file": "MyLife/Daily/2026-07-14.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-11"
+              "title": "2026-07-14"
             },
             "group": "f53768d391e9b218"
           }
@@ -238,10 +238,11 @@
   },
   "active": "49e20f7a7cd495f2",
   "lastOpenFiles": [
-    "MyLife/Monthly/2026-07.md",
-    "MyLife/Daily/2026-07-13.md",
     "MyLife/Weekly/2026-W29.md",
     "MyLife/Daily/2026-07-14.md",
+    "MyLife/Monthly/2026-07.md",
+    "MyLife/Daily/2026-07-11.md",
+    "MyLife/Daily/2026-07-13.md",
     "MyLife/Daily/2026-07-12.md",
     "MyLife/Weekly/2026-W28.md",
     "MyLife/ZZZKnowledge/高数/极限/抓大头 根号形式.md",
@@ -254,7 +255,6 @@
     "MyLife/ZZZKnowledge/高数/双曲函数.md",
     "MyLife/Daily/2026-07-06.md",
     "MyLife/ZZZKnowledge/高数/极限/常见Riemann和变量形式.md",
-    "MyLife/Daily/2026-07-11.md",
     "MyLife/ZZZKnowledge/高数/极限/基础极限.md",
     "MyLife/ZZZKnowledge/高数/达布定理.md",
     "MyLife/Daily/2026-07-08.md",
