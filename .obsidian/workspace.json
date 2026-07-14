@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyLife/Weekly/2026-W29.md",
-                "mode": "source",
+                "file": "MyLife/Daily/2026-07-14.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-W29"
+              "title": "2026-07-14"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c8744e48406bcace",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MyLife/Weekly/2026-W29.md",
+                "file": "MyLife/Daily/2026-07-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-W29 的反向链接列表"
+              "title": "2026-07-14 的反向链接列表"
             }
           },
           {
@@ -130,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyLife/Weekly/2026-W29.md",
+                "file": "MyLife/Daily/2026-07-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-W29 的出链列表"
+              "title": "2026-07-14 的出链列表"
             }
           },
           {
@@ -173,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyLife/Weekly/2026-W29.md",
+                "file": "MyLife/Daily/2026-07-14.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-W29 的大纲"
+              "title": "2026-07-14 的大纲"
             }
           },
           {
@@ -214,19 +213,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca8869ca2af7aeb2",
+  "active": "d60c7d0520aebd78",
   "lastOpenFiles": [
-    "MyLife/Weekly/2026-W28.md",
-    "MyLife/Weekly/2026-W29.md",
-    "MyLife/Monthly/2026-07.md",
-    "MyLife/Yearly/2026.md",
-    "MyLife/Daily/2026-07-14.md",
     "MyLife/ZZZKnowledge/总览知识.md",
-    "MyLife/Daily/2026-07-12.md",
-    "MyLife/ZZZKnowledge/高数/达布定理.md",
-    "MyLife/Daily/2026-07-13.md",
+    "MyLife/Daily/2026-07-14.md",
+    "MyLife/Daily/2026-07-07.md",
+    "MyLife/Weekly/2026-W29.md",
+    "MyLife/Daily/2026-07-09.md",
     "MyLife/Daily/2026-07-10.md",
     "MyLife/Daily/2026-07-11.md",
+    "MyLife/Daily/2026-07-12.md",
+    "MyLife/Daily/2026-07-13.md",
+    "MyLife/ZZZKnowledge/高数/极限/证明及求解1.md",
+    "MyLife/ZZZKnowledge/高数/极限/递推关系数列极限方法.md",
+    "MyLife/ZZZKnowledge/高数/极限/无穷小阶数确定方法.md",
+    "MyLife/Weekly/2026-W28.md",
+    "MyLife/Monthly/2026-07.md",
+    "MyLife/Yearly/2026.md",
+    "MyLife/ZZZKnowledge/高数/达布定理.md",
     "MyLife/Weekly/2026-W27.md",
     "MyLife/Daily/2026-07-05.md",
     "MyLife/Daily/2026-07-04.md",
@@ -234,14 +238,9 @@
     "MyLife/Daily/2026-07-02.md",
     "Templates/ZZZSays.md",
     "MyLife/Daily/2026-07-06.md",
-    "MyLife/Daily/2026-07-07.md",
     "MyLife/Daily/2026-07-08.md",
     "Templates/Daily_Template.md",
     "Templates/Monthly_Template.md",
-    "README.md",
-    "MyLife/Monthly/2026-06.md",
-    "MyLife/Daily/2026-06-29.md",
-    "Templates/Yearly_Template.md",
     "Untitled.base",
     "MyLife/ZZZKnowledge/高数",
     "MyLife/ZZZKnowledge/Untitled.base",
