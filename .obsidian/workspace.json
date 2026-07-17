@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c8744e48406bcace",
@@ -211,17 +210,27 @@
       "templater-obsidian:Templater": false,
       "cmdr:Periodic Notes: Open monthly note": false,
       "cmdr:Periodic Notes: Open yearly note": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "d60c7d0520aebd78",
   "lastOpenFiles": [
     "MyLife/Daily/2026-07-16.md",
     "MyLife/Daily/2026-07-17.md",
-    "MyLife/ZZZKnowledge/总览知识.md",
-    "MyLife/Daily/2026-07-15.md",
+    "MyLife/ZZZKnowledge/高数/一元函数微分学/绝对值函数导数与原函数导数关系.md",
     "MyLife/Monthly/2026-07.md",
+    "MyLife/ZZZKnowledge/高数/一元函数微分学/绝对值对可导影响.md",
+    "MyLife/ZZZKnowledge/高数/一元函数微分学/定义法求解导数常见构建.md",
+    "MyLife/ZZZKnowledge/高数/一元函数微分学/导数求解方法.md",
+    "MyLife/ZZZKnowledge/高数/一元函数微分学",
+    "MyLife/Daily/2026-07-15.md",
+    "MyLife/ZZZKnowledge/高数/扩展/奇偶函数性质.md",
+    "MyLife/ZZZKnowledge/高数/极限/零点定理证明题.md",
+    "MyLife/ZZZKnowledge/高数/极限/含绝对值间断点与分段函数间断点.md",
+    "MyLife/ZZZKnowledge/高数/极限/复合函数间断点.md",
     "MyLife/Weekly/2026-W29.md",
+    "MyLife/ZZZKnowledge/总览知识.md",
     "MyLife/Daily/2026-07-14.md",
     "MyLife/Daily/2026-07-13.md",
     "MyLife/Daily/2026-07-05.md",
@@ -234,14 +243,6 @@
     "MyLife/Daily/2026-07-07.md",
     "MyLife/Daily/2026-07-06.md",
     "MyLife/ZZZKnowledge/高数/极限/复杂极限的等价形式求解方法.md",
-    "MyLife/ZZZKnowledge/高数/扩展/极限衰减速率证明.md",
-    "MyLife/ZZZKnowledge/高数/极限/Stolz定理.md",
-    "MyLife/ZZZKnowledge/高数/极限/Stiring 公式估计n!.md",
-    "MyLife/ZZZKnowledge/高数/极限/x的x次幂关键极限.md",
-    "MyLife/ZZZKnowledge/高数/极限/两个极限乘积关系.md",
-    "MyLife/ZZZKnowledge/高数/极限/原函数等价无穷小.md",
-    "MyLife/ZZZKnowledge/高数/极限/基础极限.md",
-    "MyLife/ZZZKnowledge/高数/极限/差的极限求法.md",
     "MyLife/ZZZKnowledge/高数/扩展",
     "MyLife/ZZZKnowledge/高数/模拟卷1",
     "Untitled.base",
@@ -251,7 +252,6 @@
     "MyLife/ZZZKnowledge",
     "未命名.base",
     "MyLife/Yearly",
-    "MyLife/Monthly",
-    "MyLife/Weekly"
+    "MyLife/Monthly"
   ]
 }
