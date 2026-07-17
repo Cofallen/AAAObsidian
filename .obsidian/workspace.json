@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyLife/Daily/2026-07-16.md",
+                "file": "MyLife/Daily/2026-07-17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-16"
+              "title": "2026-07-17"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#数学/高数/待归档",
+                "query": "tag:#数学/高数/扩展",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c8744e48406bcace",
@@ -210,17 +211,28 @@
       "templater-obsidian:Templater": false,
       "cmdr:Periodic Notes: Open monthly note": false,
       "cmdr:Periodic Notes: Open yearly note": false,
-      "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "d60c7d0520aebd78",
   "lastOpenFiles": [
-    "MyLife/Daily/2026-07-15.md",
-    "MyLife/Weekly/2026-W29.md",
     "MyLife/Daily/2026-07-16.md",
+    "MyLife/Daily/2026-07-17.md",
+    "MyLife/ZZZKnowledge/总览知识.md",
+    "MyLife/Daily/2026-07-15.md",
     "MyLife/Monthly/2026-07.md",
+    "MyLife/Weekly/2026-W29.md",
     "MyLife/Daily/2026-07-14.md",
+    "MyLife/Daily/2026-07-13.md",
+    "MyLife/Daily/2026-07-05.md",
+    "MyLife/Daily/2026-07-04.md",
+    "MyLife/Daily/2026-07-12.md",
+    "MyLife/Daily/2026-07-11.md",
+    "MyLife/Daily/2026-07-10.md",
+    "MyLife/Daily/2026-07-09.md",
+    "MyLife/Daily/2026-07-08.md",
+    "MyLife/Daily/2026-07-07.md",
+    "MyLife/Daily/2026-07-06.md",
     "MyLife/ZZZKnowledge/高数/极限/复杂极限的等价形式求解方法.md",
     "MyLife/ZZZKnowledge/高数/扩展/极限衰减速率证明.md",
     "MyLife/ZZZKnowledge/高数/极限/Stolz定理.md",
@@ -230,18 +242,6 @@
     "MyLife/ZZZKnowledge/高数/极限/原函数等价无穷小.md",
     "MyLife/ZZZKnowledge/高数/极限/基础极限.md",
     "MyLife/ZZZKnowledge/高数/极限/差的极限求法.md",
-    "MyLife/ZZZKnowledge/高数/极限/常见Riemann和变量形式.md",
-    "MyLife/ZZZKnowledge/高数/极限/幂指函数等价无穷小.md",
-    "MyLife/ZZZKnowledge/高数/极限/抓大头 根号形式.md",
-    "MyLife/ZZZKnowledge/高数/极限/数列和极限求解方法.md",
-    "MyLife/ZZZKnowledge/高数/极限/无穷大转换无穷小.md",
-    "MyLife/ZZZKnowledge/高数/极限/无穷小阶数确定方法.md",
-    "MyLife/ZZZKnowledge/高数/极限/绝对值极限性质.md",
-    "MyLife/ZZZKnowledge/高数/极限/递推关系数列极限方法.md",
-    "MyLife/ZZZKnowledge/总览知识.md",
-    "MyLife/Yearly/2026.md",
-    "MyLife/Daily/2026-07-13.md",
-    "MyLife/Daily/2026-07-12.md",
     "MyLife/ZZZKnowledge/高数/扩展",
     "MyLife/ZZZKnowledge/高数/模拟卷1",
     "Untitled.base",
