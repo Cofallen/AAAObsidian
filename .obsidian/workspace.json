@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyLife/ZZZKnowledge/总览知识.md",
+                "file": "MyLife/Daily/2026-07-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "总览知识"
+              "title": "2026-07-19"
             }
           }
         ]
@@ -217,15 +217,18 @@
   "active": "d60c7d0520aebd78",
   "lastOpenFiles": [
     "MyLife/Daily/2026-07-18.md",
-    "MyLife/ZZZKnowledge/总览知识.md",
+    "MyLife/Daily/2026-07-17.md",
     "MyLife/Daily/2026-07-15.md",
+    "MyLife/Daily/2026-07-16.md",
+    "MyLife/Daily/2026-07-13.md",
+    "MyLife/Daily/2026-07-14.md",
+    "MyLife/Daily/2026-07-19.md",
+    "MyLife/Monthly/2026-07.md",
+    "MyLife/Yearly/2026.md",
+    "MyLife/ZZZKnowledge/总览知识.md",
     "MyLife/Weekly/2026-W29.md",
     "MyLife/Weekly/2026-W27.md",
     "MyLife/Weekly/2026-W28.md",
-    "MyLife/Monthly/2026-07.md",
-    "MyLife/Daily/2026-07-14.md",
-    "MyLife/Daily/2026-07-16.md",
-    "MyLife/Daily/2026-07-17.md",
     "MyLife/ZZZKnowledge/高数/一元函数微分学/Taylor展开常见形式.md",
     "MyLife/ZZZKnowledge/高数/一元函数微分学/斜渐近线Taylor求法.md",
     "MyLife/ZZZKnowledge/高数/极限/极限保号性性质.md",
@@ -240,9 +243,6 @@
     "MyLife/ZZZKnowledge/高数/一元函数微分学/定义法求解导数常见构建.md",
     "MyLife/ZZZKnowledge/高数/一元函数微分学/导数求解方法.md",
     "MyLife/ZZZKnowledge/高数/一元函数微分学",
-    "MyLife/ZZZKnowledge/高数/扩展/奇偶函数性质.md",
-    "MyLife/ZZZKnowledge/高数/极限/含绝对值间断点与分段函数间断点.md",
-    "MyLife/ZZZKnowledge/高数/极限/复合函数间断点.md",
     "MyLife/ZZZKnowledge/高数/扩展",
     "MyLife/ZZZKnowledge/高数/模拟卷1",
     "Untitled.base",
