@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d60c7d0520aebd78",
+            "id": "ccd756ec1184147d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyLife/Daily/2026-07-19.md",
+                "file": "MyLife/Monthly/2026-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-19"
+              "title": "2026-08"
             }
           }
         ]
@@ -41,10 +41,12 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -53,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#数学/高数/导数与微分",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +63,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜索"
+              "title": "Search"
             }
           },
           {
@@ -149,7 +151,22 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "标签"
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3c12f5c92259431c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MyLife/Monthly/2026-08.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -163,22 +180,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "添加笔记属性"
-            }
-          },
-          {
-            "id": "3c12f5c92259431c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "MyLife/ZZZKnowledge/总览知识.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "总览知识 的大纲"
+              "title": "All properties"
             }
           },
           {
@@ -200,48 +202,49 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:新建数据库": false,
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "periodic-notes:Open today": false,
       "templater-obsidian:Templater": false,
       "cmdr:Periodic Notes: Open monthly note": false,
       "cmdr:Periodic Notes: Open yearly note": false,
-      "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d60c7d0520aebd78",
+  "active": "ca8869ca2af7aeb2",
   "lastOpenFiles": [
-    "MyLife/Daily/2026-07-18.md",
-    "MyLife/Daily/2026-07-17.md",
-    "MyLife/Daily/2026-07-15.md",
-    "MyLife/Daily/2026-07-16.md",
-    "MyLife/Daily/2026-07-13.md",
-    "MyLife/Daily/2026-07-14.md",
-    "MyLife/Daily/2026-07-19.md",
-    "MyLife/Monthly/2026-07.md",
-    "MyLife/Yearly/2026.md",
+    "MyLife/Daily/2026-08-15.md",
     "MyLife/ZZZKnowledge/总览知识.md",
-    "MyLife/Weekly/2026-W29.md",
-    "MyLife/Weekly/2026-W27.md",
-    "MyLife/Weekly/2026-W28.md",
-    "MyLife/ZZZKnowledge/高数/一元函数微分学/Taylor展开常见形式.md",
-    "MyLife/ZZZKnowledge/高数/一元函数微分学/斜渐近线Taylor求法.md",
-    "MyLife/ZZZKnowledge/高数/极限/极限保号性性质.md",
-    "MyLife/ZZZKnowledge/高数/一元函数微分学/反函数导数.md",
-    "MyLife/ZZZKnowledge/高数/扩展/牛顿法近似求根.md",
-    "MyLife/ZZZKnowledge/高数/扩展/复合函数性质.md",
-    "MyLife/ZZZKnowledge/Untitled.md",
-    "MyLife/ZZZKnowledge/高数/一元函数微分学/绝对值对可导影响.md",
-    "MyLife/ZZZKnowledge/高数/一元函数微分学/答案1.md",
-    "MyLife/ZZZKnowledge/高数/一元函数微分学/绝对值函数导数与原函数导数关系.md",
-    "MyLife/ZZZKnowledge/高数/极限/零点定理证明题.md",
-    "MyLife/ZZZKnowledge/高数/一元函数微分学/定义法求解导数常见构建.md",
-    "MyLife/ZZZKnowledge/高数/一元函数微分学/导数求解方法.md",
+    "MyLife/Daily/2026-08-14.md",
+    "MyLife/ZZZKnowledge/高数/一元函数积分学/Poincaré不等式推广.md",
+    "MyLife/ZZZKnowledge/高数/一元函数积分学/一维Poincaré不等式.md",
+    "MyLife/ZZZKnowledge/高数/一元函数积分学/Wirtinger 型不等式.md",
+    "MyLife/Daily/2026-08-13.md",
+    "MyLife/ZZZKnowledge/高数/一元函数积分学/Taylor 分式展开方法.md",
+    "MyLife/ZZZKnowledge/高数/扩展/Cauchy 不等式各种类型.md",
+    "MyLife/Daily/2026-08-11.md",
+    "MyLife/Daily/2026-08-12.md",
+    "MyLife/ZZZKnowledge/高数/一元函数积分学/变上限积分逆用.md",
+    "MyLife/ZZZKnowledge/高数/一元函数积分学/定积分对称换元.md",
+    "MyLife/ZZZKnowledge/高数/一元函数积分学/一阶矩的积分理解.md",
+    "MyLife/ZZZKnowledge/高数/一元函数积分学/Wallis 积分公式.md",
+    "MyLife/ZZZKnowledge/高数/一元函数积分学/复合抽象函数导数配凑形式.md",
+    "MyLife/Daily/2026-08-10.md",
+    "MyLife/ZZZKnowledge/高数/一元函数积分学/常见积分配凑形式.md",
+    "MyLife/ZZZKnowledge/高数/一元函数微分学/高阶导数中值定理证明方法.md",
+    "MyLife/ZZZKnowledge/高数/一元函数微分学/n个点微分中值定理方法.md",
+    "MyLife/ZZZKnowledge/高数/一元函数微分学/两个点微分中值定理方法.md",
+    "MyLife/ZZZKnowledge/高数/一元函数微分学/常见函数不等式.md",
+    "MyLife/ZZZKnowledge/高数/一元函数微分学/介值性常见函数.md",
+    "MyLife/ZZZKnowledge/高数/一元函数微分学/凹凸函数常见性质.md",
+    "MyLife/ZZZKnowledge/高数/一元函数微分学/k值法.md",
+    "MyLife/Daily/2026-08-09.md",
+    "MyLife/ZZZKnowledge/高数/一元函数积分学",
     "MyLife/ZZZKnowledge/高数/一元函数微分学",
     "MyLife/ZZZKnowledge/高数/扩展",
     "MyLife/ZZZKnowledge/高数/模拟卷1",
@@ -251,7 +254,6 @@
     "MyLife/ZZZKnowledge/Untitled.canvas",
     "MyLife/ZZZKnowledge",
     "未命名.base",
-    "MyLife/Yearly",
-    "MyLife/Monthly"
+    "MyLife/Yearly"
   ]
 }
