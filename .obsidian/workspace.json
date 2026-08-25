@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyLife/Monthly/2026-08.md",
+                "file": "MyLife/Daily/2026-08-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08"
+              "title": "2026-08-26"
             }
           }
         ],
@@ -233,8 +233,19 @@
   },
   "active": "87bada41d702fd1e",
   "lastOpenFiles": [
+    "MyLife/Daily/2026-08-25.md",
+    "MyLife/Daily/2026-08-26.md",
     "MyLife/Daily/2026-08-24.md",
+    "MyLife/ZZZKnowledge/高数/无穷级数/常见难判定级数放缩技巧.md",
+    "MyLife/ZZZKnowledge/高数/模拟卷1/证明.md",
     "MyLife/ZZZKnowledge/总览知识.md",
+    "MyLife/ZZZKnowledge/高数/无穷级数/级数收敛的充分和必要条件.md",
+    "MyLife/ZZZKnowledge/高数/无穷级数/含三角交错级数敛散性判定.md",
+    "MyLife/ZZZKnowledge/高数/无穷级数/级数收敛与数列收敛关系.md",
+    "MyLife/Daily/2026-08-17.md",
+    "MyLife/ZZZKnowledge/高数/无穷级数/Cauchy多个收敛定理.md",
+    "MyLife/ZZZKnowledge/高数/无穷级数",
+    "MyLife/Monthly/2026-08.md",
     "MyLife/Daily/2026-08-23.md",
     "MyLife/Daily/2026-08-22.md",
     "MyLife/Daily/2026-08-21.md",
@@ -242,7 +253,6 @@
     "MyLife/Daily/2026-08-19.md",
     "MyLife/ZZZKnowledge/高数/多元函数微分学/多元函数可微在(0,0)的充分条件.md",
     "MyLife/Daily/2026-08-18.md",
-    "MyLife/Daily/2026-08-17.md",
     "MyLife/Daily/2026-08-16.md",
     "MyLife/ZZZKnowledge/高数/多元函数微分学/多元函数可微的强充分条件及理解.md",
     "MyLife/ZZZKnowledge/高数/一元函数积分学/倒代换形式的区间再现.md",
@@ -250,15 +260,6 @@
     "MyLife/ZZZKnowledge/高数/常微分方程/微分方程线性坐标平移.md",
     "MyLife/ZZZKnowledge/高数/二重积分/广义Poincare不等式二维.md",
     "MyLife/ZZZKnowledge/高数/多元函数微分学/求解多元函数最值常用方法.md",
-    "MyLife/ZZZKnowledge/高数/二重积分/二重变上限积分求导与极限.md",
-    "MyLife/ZZZKnowledge/高数/二重积分/Chebyshev积分不等式.md",
-    "MyLife/ZZZKnowledge/高数/二重积分/径向导数算子与切向导数算子.md",
-    "MyLife/ZZZKnowledge/高数/极限/Laplace方法估计复杂积分极限.md",
-    "MyLife/ZZZKnowledge/高数/一元函数微分学/Lagrange中值定理推广Roller定理.md",
-    "MyLife/Daily/2026-08-03.md",
-    "MyLife/Daily/2026-08-04.md",
-    "MyLife/Daily/2026-08-05.md",
-    "MyLife/Daily/2026-08-06.md",
     "MyLife/ZZZKnowledge/高数/空间解析几何",
     "MyLife/ZZZKnowledge/高数/二重积分",
     "MyLife/ZZZKnowledge/高数/多元函数微分学",
@@ -268,7 +269,6 @@
     "MyLife/ZZZKnowledge/高数/扩展",
     "MyLife/ZZZKnowledge/高数/模拟卷1",
     "Untitled.base",
-    "MyLife/ZZZKnowledge/高数",
     "MyLife/ZZZKnowledge/Untitled.canvas"
   ]
 }
