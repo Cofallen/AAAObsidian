@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyLife/Daily/2026-08-27.md",
+                "file": "MyLife/Daily/2026-08-30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-27"
+              "title": "2026-08-30"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyLife/ZZZKnowledge/高数/无穷级数/奇偶函数提取奇次项偶次项.md",
+                "file": "MyLife/ZZZKnowledge/高数/空间解析几何/证明曲面为柱面方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "奇偶函数提取奇次项偶次项"
+              "title": "证明曲面为柱面方法"
             }
           }
         ]
@@ -232,33 +232,34 @@
   },
   "active": "87bada41d702fd1e",
   "lastOpenFiles": [
+    "MyLife/ZZZKnowledge/总览知识.md",
+    "MyLife/Daily/2026-08-30.md",
     "MyLife/Monthly/2026-08.md",
+    "MyLife/Daily/2026-08-29.md",
+    "MyLife/Daily/2026-08-28.md",
+    "MyLife/ZZZKnowledge/高数/线面积分/dS的一般求取方法.md",
+    "MyLife/ZZZKnowledge/高数/线面积分/场的角度重写线面积分.md",
+    "MyLife/ZZZKnowledge/高数/线面积分/非坐标轴对称配凑法.md",
+    "MyLife/ZZZKnowledge/高数/线面积分/常见三重积分一阶矩与二阶矩.md",
+    "MyLife/ZZZKnowledge/高数/线面积分/三重积分交换次序.md",
+    "MyLife/ZZZKnowledge/高数/多元函数微分学/方向导数与连续，偏导，可微的关系.md",
     "MyLife/Daily/2026-08-27.md",
+    "MyLife/Daily/2026-08-23.md",
+    "MyLife/ZZZKnowledge/高数/空间解析几何/任意旋转面方程求法.md",
+    "MyLife/ZZZKnowledge/高数/线面积分/坐标线积分常见路径无关及性质.md",
+    "MyLife/ZZZKnowledge/高数/线面积分",
+    "MyLife/ZZZKnowledge/高数/线面积分.md",
+    "MyLife/ZZZKnowledge/高数/空间解析几何/证明曲面为柱面方法.md",
+    "MyLife/Weekly/2026-W35.md",
+    "MyLife/ZZZKnowledge/高数/无穷级数/奇偶函数提取奇次项偶次项.md",
+    "MyLife/Yearly/2026.md",
+    "MyLife/Monthly/2026-07.md",
     "MyLife/ZZZKnowledge/高数/空间解析几何/点线与线线距离公式.md",
     "MyLife/ZZZKnowledge/高数/空间解析几何/混合积应用三线共面.md",
     "MyLife/Daily/2026-08-26.md",
-    "MyLife/ZZZKnowledge/总览知识.md",
     "MyLife/ZZZKnowledge/高数/无穷级数/不动点方程级数求和函数.md",
     "MyLife/Daily/2026-08-25.md",
-    "MyLife/ZZZKnowledge/高数/无穷级数/奇偶函数提取奇次项偶次项.md",
-    "MyLife/ZZZKnowledge/高数/无穷级数/含ln函数展开级数技巧.md",
-    "MyLife/ZZZKnowledge/高数/无穷级数/欧拉算子解决nk幂级数展开.md",
-    "MyLife/Weekly/2026-W35.md",
-    "MyLife/Daily/2026-08-24.md",
-    "MyLife/ZZZKnowledge/高数/无穷级数/常见难判定级数放缩技巧.md",
-    "MyLife/ZZZKnowledge/高数/模拟卷1/证明.md",
-    "MyLife/ZZZKnowledge/高数/无穷级数/级数收敛的充分和必要条件.md",
-    "MyLife/ZZZKnowledge/高数/无穷级数/含三角交错级数敛散性判定.md",
-    "MyLife/ZZZKnowledge/高数/无穷级数/级数收敛与数列收敛关系.md",
-    "MyLife/Daily/2026-08-17.md",
-    "MyLife/ZZZKnowledge/高数/无穷级数/Cauchy多个收敛定理.md",
     "MyLife/ZZZKnowledge/高数/无穷级数",
-    "MyLife/Daily/2026-08-23.md",
-    "MyLife/Daily/2026-08-22.md",
-    "MyLife/Daily/2026-08-21.md",
-    "MyLife/Daily/2026-08-20.md",
-    "MyLife/Daily/2026-08-19.md",
-    "MyLife/ZZZKnowledge/高数/多元函数微分学/多元函数可微在(0,0)的充分条件.md",
     "MyLife/ZZZKnowledge/高数/空间解析几何",
     "MyLife/ZZZKnowledge/高数/二重积分",
     "MyLife/ZZZKnowledge/高数/多元函数微分学",
@@ -267,7 +268,6 @@
     "MyLife/ZZZKnowledge/高数/一元函数微分学",
     "MyLife/ZZZKnowledge/高数/扩展",
     "MyLife/ZZZKnowledge/高数/模拟卷1",
-    "Untitled.base",
     "MyLife/ZZZKnowledge/Untitled.canvas"
   ]
 }
